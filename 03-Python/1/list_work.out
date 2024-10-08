@@ -1,0 +1,78 @@
+
+The Original List is ['Jacob', 25, 'Ahmed', 80, 25]
+
+-------------------------------------
+
+Make a copy of the myList to newList
+The new list is ['Jacob', 25, 'Ahmed', 80, 25]
+
+-------------------------------------
+
+reverse of newList: [25, 80, 'Ahmed', 25, 'Jacob']
+
+-------------------------------------
+
+Append a new element Matt: ['Jacob', 25, 'Ahmed', 80, 25, 'Matt']
+
+-------------------------------------
+
+The index position of element Matt is: 5
+Remember, the index starts at zero
+
+-------------------------------------
+
+['Ahmed', 80, 25]
+Get Elements located on index 2,3,4 from the list
+
+-------------------------------------
+
+Matt
+Get the last element from the list
+
+-------------------------------------
+
+25
+Get the 2nd last element from the list
+
+-------------------------------------
+
+Change the value of index 3 to 85
+List After Change: ['Jacob', 25, 'Ahmed', 85, 25, 'Matt']
+
+-------------------------------------
+
+Number of Elements : 6
+-------------------------------------
+
+List after removing Matt: ['Jacob', 25, 'Ahmed', 85, 25]
+
+-------------------------------------
+
+After removing 1 elements from the beginning: [25, 'Ahmed', 85, 25]
+
+-------------------------------------
+
+After Inserting element 'Sandra' at location index #1: [25, 'Sandra', 'Ahmed', 85, 25]
+-------------------------------------
+
+The element at index 1 :  Sandra
+
+-------------------------------------
+
+Count the occurance of element 25 in the list: 2
+
+-------------------------------------
+Join 2 Lists and make one big list
+list1: ['jack', 'amy', 'kate']
+list2: ['max', 'rami', 'fred']
+Join list1 and list2 to make list3: ['jack', 'amy', 'kate', 'max', 'rami', 'fred']
+
+-------------------------------------
+list3 Sorted in reverse order:, ['rami', 'max', 'kate', 'jack', 'fred', 'amy']
+
+-------------------------------------
+Random element from list3: rami
+
+Tuple: ('Python', 100, 'VBA', False)
+
+-------------------------------------
