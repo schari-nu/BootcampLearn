@@ -3,3 +3,4 @@ This is the second line.
 This is the last line.
 This line is added by user2
 This line was added by user1
+Edited in class by user2
