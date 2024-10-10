@@ -1,1 +1,2 @@
 Info from user1
+line 2 for info from user1
