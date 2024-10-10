@@ -1,3 +1,4 @@
 Info from user1
 line 2 for info from user1
 Line 3 from user1 in the class
+Line 4 for user1 also done in the class for command line interface
